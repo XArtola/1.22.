@@ -1,0 +1,6 @@
+Array vs ArrayList
+
+1- The arrayList has a changeable size, we can add or delete values (cells) from it
+2- We can store different types of values in a ArrayList, but not in an array
+3- We store primitive data types in an array, but in a ArrayList we have to store objects (Integer, Character...)
+4-Both of them have the values estored in order they have an index
